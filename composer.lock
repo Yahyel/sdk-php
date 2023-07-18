@@ -6,3 +6,4 @@
     "packages-dev": [
         {
             "name": "andrewsville/php-token-reflection",
+            "version": "1.3.1",
