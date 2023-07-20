@@ -8,3 +8,4 @@
             "name": "andrewsville/php-token-reflection",
             "version": "1.3.1",
             "source": {
+                "type": "git",
