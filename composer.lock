@@ -20,3 +20,4 @@
                 "shasum": ""
             },
             "require": {
+                "php": ">=5.3"
