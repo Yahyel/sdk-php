@@ -24,3 +24,4 @@
             },
             "type": "library",
             "autoload": {
+                "psr-0": {
