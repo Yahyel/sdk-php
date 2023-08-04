@@ -25,3 +25,4 @@
             "type": "library",
             "autoload": {
                 "psr-0": {
+                    "TokenReflection": "./"
