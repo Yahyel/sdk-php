@@ -42,3 +42,4 @@
                     "homepage": "https://github.com/kukulich"
                 }
             ],
+            "description": "Library emulating the PHP internal reflection using just the tokenized source code.",
