@@ -44,3 +44,4 @@
             ],
             "description": "Library emulating the PHP internal reflection using just the tokenized source code.",
             "homepage": "http://andrewsville.github.com/PHP-Token-Reflection/",
+            "keywords": [
