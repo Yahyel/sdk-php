@@ -55,3 +55,4 @@
             "name": "apigen/apigen",
             "version": "2.8.1",
             "source": {
+                "type": "git",
