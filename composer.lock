@@ -60,3 +60,4 @@
                 "reference": "2.8.1"
             },
             "dist": {
+                "type": "zip",
