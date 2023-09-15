@@ -61,3 +61,4 @@
             },
             "dist": {
                 "type": "zip",
+                "url": "https://api.github.com/repos/cakoose/apigen/zipball/2.8.1",
