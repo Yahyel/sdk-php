@@ -66,3 +66,4 @@
                 "shasum": ""
             },
             "require": {
+                "andrewsville/php-token-reflection": ">=1.3.1",
