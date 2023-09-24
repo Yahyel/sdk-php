@@ -70,3 +70,4 @@
                 "dg/texy": ">=2.1.0",
                 "kukulich/fshl": ">=2.1.0",
                 "nette/nette": ">=2.0.5",
+                "php": ">=5.3.0"
