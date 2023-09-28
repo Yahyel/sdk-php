@@ -74,3 +74,4 @@
             },
             "suggest": {
                 "ext-bz2": "*",
+                "ext-phar": "*",
