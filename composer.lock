@@ -76,3 +76,4 @@
                 "ext-bz2": "*",
                 "ext-phar": "*",
                 "ext-zip": "*",
+                "ext-zlib": "*"
