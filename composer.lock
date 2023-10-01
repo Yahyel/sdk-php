@@ -77,3 +77,4 @@
                 "ext-phar": "*",
                 "ext-zip": "*",
                 "ext-zlib": "*"
+            },
