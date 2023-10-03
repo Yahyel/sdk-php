@@ -79,3 +79,4 @@
                 "ext-zlib": "*"
             },
             "bin": [
+                "apigen.php"
