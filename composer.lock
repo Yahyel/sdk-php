@@ -80,3 +80,4 @@
             },
             "bin": [
                 "apigen.php"
+            ],
