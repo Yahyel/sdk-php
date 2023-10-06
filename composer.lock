@@ -82,3 +82,4 @@
                 "apigen.php"
             ],
             "type": "library",
+            "extra": {
