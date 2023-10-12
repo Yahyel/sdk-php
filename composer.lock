@@ -88,3 +88,4 @@
                     "dev-develop": "3.0.0-dev"
                 }
             },
+            "autoload": {
