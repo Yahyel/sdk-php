@@ -91,3 +91,4 @@
             "autoload": {
                 "psr-0": {
                     "ApiGen": "./"
+                }
