@@ -110,3 +110,4 @@
                     "homepage": "http://davidgrudl.com"
                 }
             ],
+            "description": "API documentation generator for PHP 5.3+",
