@@ -113,3 +113,4 @@
             "description": "API documentation generator for PHP 5.3+",
             "homepage": "http://apigen.org/",
             "keywords": [
+                "api",
