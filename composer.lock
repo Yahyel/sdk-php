@@ -121,3 +121,4 @@
                 "phpdocumentor"
             ],
             "support": {
+                "issues": "https://github.com/apigen/apigen/issues",
