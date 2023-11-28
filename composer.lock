@@ -131,3 +131,4 @@
             "name": "dg/texy",
             "version": "v2.2.0",
             "source": {
+                "type": "git",
