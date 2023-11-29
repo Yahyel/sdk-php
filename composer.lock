@@ -132,3 +132,4 @@
             "version": "v2.2.0",
             "source": {
                 "type": "git",
+                "url": "https://github.com/dg/texy",
